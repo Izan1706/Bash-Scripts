@@ -1,4 +1,4 @@
-# 🛡️ mini-ips-bash
+# 🛡️ mini-ips-bash (Español)
  
 Mini **IPS (Intrusion Prevention System)** implementado en Bash puro que analiza logs de autenticación SSH, detecta direcciones IP con múltiples intentos de login fallidos y simula su bloqueo, replicando la lógica que usan herramientas reales como **Fail2Ban**.
  
