@@ -1,4 +1,4 @@
-# 🐚 bash-scripts
+# 🐚 bash-scripts (Español)
 
 Colección de scripts en Bash desarrollados como parte de mi aprendizaje y práctica en administración de sistemas Linux. Cada script vive en su propia carpeta con su código y documentación específica.
 
