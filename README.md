@@ -14,6 +14,7 @@ Repositorio vivo: se irá ampliando con nuevos scripts a medida que siga formán
 |---|---|---|
 | [`media-notas`](./media-notas) | Calcula la media de un conjunto de notas introducidas por el usuario y muestra un mensaje según el resultado. | Básico (aprendizaje) |
 | [`mini-ips-bash`](./mini-ips-bash) | Mini IPS que analiza logs SSH, detecta IPs con intentos de login fallidos repetidos y simula su bloqueo (estilo Fail2Ban). | Intermedio |
+| [`NAS-script`](./NAS-script) | Automatización para instalar SAMBA y preparar un NAS (Importante leer el README correspondiente en su carpeta). | Intermedio |
 
 ## ▶️ Uso general
 
