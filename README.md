@@ -60,6 +60,9 @@ Living repository: it will keep growing with new scripts as I continue learning 
 |---|---|---|
 | [`media-notas`](./media-notas) | Calculates the average of a set of grades entered by the user and prints a message based on the result. | Basic (learning) |
 | [`mini-ips-bash`](./mini-ips-bash) | Mini IPS that parses SSH logs, detects IPs with repeated failed login attempts, and simulates blocking them (Fail2Ban-style). | Intermediate |
+| [`NAS-script`](./NAS-script) | Automation to install SAMBA and set up a NAS (Important: read the corresponding README in its folder). | Intermediate |
+
+
 
 ## ▶️ General usage
 
